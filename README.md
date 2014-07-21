@@ -1,4 +1,4 @@
-Chat-Log-Plugin
+<h3>Chat-Log-Plugin</h3>
 ===============
 
-SESE based chat log archiver plugin
+**Dependencies**
