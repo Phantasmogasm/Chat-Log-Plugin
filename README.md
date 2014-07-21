@@ -3,10 +3,10 @@
 
 <h2>Dependencies</h2>
 
-This is a dedicated plugin written for the SE Server Extender
+This is a dedicated plugin written for the SE Server Extender.
 https://github.com/SEModCommunity/SE-Community-Mod-API/tree/master/SEServerExtender
 
-And as such requires SE Server Extender to function
+And as such requires SE Server Extender to function.
 
 
 <h3>Credtitations</h3>
