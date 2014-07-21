@@ -1,4 +1,4 @@
-<h3>Chat-Log-Plugin</h3>
+<h3>README</h3>
 ===============
 
-**Dependencies**
+<h4>Dependencies</h4>
