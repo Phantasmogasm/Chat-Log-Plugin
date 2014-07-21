@@ -106,7 +106,7 @@ namespace Log_Scraper_Plugin
                 string message = chatEvent.message;
                 ushort priority = chatEvent.priority;
                 string type = chatEvent.type.ToString();
-                System.IO.File.AppendAllText(CurrentLogPath, timestamp.ToString("[yyyy-MM-dd HH:MM:ss.fff]") + "   " + "<--------SERVER-------->" + "   "+ "Message:  " + message + "\r\n");
+                System.IO.File.AppendAllText(CurrentLogPath, timestamp.ToString("[yyyy-MM-dd HH:MM:ss.fff]") + "   " + "<------SERVER----->" + "   "+ "Message:  " + message + "\r\n");
             }
             catch (Exception e)
             {
